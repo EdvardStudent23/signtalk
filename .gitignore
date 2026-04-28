@@ -1,0 +1,10 @@
+#dataset
+dataset
+dataset_info
+Pipfile
+Pipfile.lock
+
+# model
+sign_features_63d.csv
+sign_language_mlp.pkl
+updated_sign_model.pkl
