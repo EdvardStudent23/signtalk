@@ -3,8 +3,23 @@ dataset
 dataset_info
 Pipfile
 Pipfile.lock
+datasetf
+dodat
+dynamic_dataset
+
+experiment_results.csv
+sign_features_63d_static.csv
+updated_sign_model_2.pkl
+
+dynamic_gesture_model.keras
+dynamic_model_metadata.json
 
 # model
 sign_features_63d.csv
 sign_language_mlp.pkl
 updated_sign_model.pkl
+model_memory.zip
+
+oldmodel
+
+
